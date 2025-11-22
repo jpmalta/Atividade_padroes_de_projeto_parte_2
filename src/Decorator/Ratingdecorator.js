@@ -1,4 +1,4 @@
-import MediaDecorator from "../model/Mediadecorator.js";
+import MediaDecorator from "../src/model/Mediadecorator.js";
 
 class RatingDecorator extends MediaDecorator {
   constructor(media, rating) {

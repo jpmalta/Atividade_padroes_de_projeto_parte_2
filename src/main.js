@@ -1,7 +1,7 @@
 import MediaFactory from "./Factory/MediaFactory";
-import RatingDecorator from "./decorator/RatingDecorator";
-import SortByTitle from "./strategy/SortByTitle";
-import SortByYear from "./strategy/SortByYear";
+import RatingDecorator from "./Decorator/Ratingdecorator";
+import SortByTitle from "./Strategy/SortByTitle";
+import SortByYear from "./Strategy/SortByYear";
 import ObservableCollection from "./Observer/ObservableCollection";
 import LoggerObserver from "./Observer/LoggerObserver";
 
